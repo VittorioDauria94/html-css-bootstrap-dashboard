@@ -18,7 +18,3 @@
     border: none;
     background-color: transparent;
 }
-
-.list-group-item:first-child {
-    border-radius: 0;
-}
